@@ -22,15 +22,16 @@ To begin configuring "Roles," go to the "Agents" tab and select "Roles" from the
 <br/>
 <br/>
 <img src="https://i.ibb.co/MP1WQRF/1.jpg" alt=""/>
+<br/>
 <br/> 
 In the "Permissions" tab, we will grant this role full permissions for "Tickets," "Tasks," and "Knowledgebase." This is why we’ve named it "Super Admin.
-<br />
+<br/>
 <br/> 
 <img src="https://i.ibb.co/Nxfjw9n/2.jpg" alt=""/>
 <br/>
 <br/> 
 To create or set up a department, click on "Departments" found just below the "Agents" tab. Enter "SysAdmin" as the department name and proceed to create the department.
-<br />
+<br/>
 <br/>
 <img src="https://i.ibb.co/ZgH1f6J/3.jpg" alt=""/>
 <br/>
@@ -85,4 +86,3 @@ Finally, we will set up Help Topics, which are used to categorize tickets. Navig
 <br/>
 <img src="https://i.ibb.co/Ssw6HHn/14.jpg" alt=""/>
 <img src="https://i.ibb.co/6vFFPZ3/15.jpg" alt=""/>
-
