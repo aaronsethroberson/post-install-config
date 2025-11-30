@@ -21,68 +21,68 @@ This project focuses on setting up osTicket as a ticketing system. It involves c
 To begin configuring "Roles," go to the "Agents" tab and select "Roles" from the dropdown menu. Enter "Super Admin" as the Role name.<br/>
 <br/>
 <br/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/1.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/1.jpg" alt=""/>
 <br/>
 <br/> 
 In the "Permissions" tab, we will grant this role full permissions for "Tickets," "Tasks," and "Knowledgebase." This is why we’ve named it "Super Admin.
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/2.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/2.jpg" alt=""/>
 <br/>
 <br/> 
 To create or set up a department, click on "Departments" found just below the "Agents" tab. Enter "SysAdmin" as the department name and proceed to create the department.
 <br/>
 <br/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/3.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/3.jpg" alt=""/>
 <br/>
 <br/> 
 Next, we'll create a team by navigating to the "Teams" tab under the "Agents" section. We'll name this team "Level II Support.
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/4.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/4.jpg" alt=""/>
 <br/>
 <br/> 
 To allow anyone to create a ticket, navigate to Settings > Authentication Settings and ensure that the "Require Registration and Login to Create Tickets" option is unchecked.
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/5.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/5.jpg" alt=""/>
 <br/>
 <br/> 
 To create agents (Helpdesk Workers), go back to the "Agents" tab, select "Agents," and complete the required fields
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/6.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/6.jpg" alt=""/>
 <br/>
 <br/> 
 Located next to the username. Select "Set Password". Uncheck "Send the agent a password reset email" and "Require password change at next login"
 <br/>
 <br/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/7.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/7.jpg" alt=""/>
 <br/>
 <br/>
 Lets create another Agent with the same steps as the previous Agent. This Agent will be assigned to the "Support" department. 
 <br/>
 <br/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/8.jpg" alt=""/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/9.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/8.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/9.jpg" alt=""/>
 <br/>
 <br/>
 Next, we'll create some users (the customers). Go to the "Agent Panel" in the top right corner of the page, then select Users > Add Users and fill in the required fields. Follow these steps to create two users.
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/10.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/10.jpg" alt=""/>
 <br/>
 <br/> 
 Next, we'll configure SLA plans. Go to the Admin Panel, then navigate to Manage > SLA. Create three different severity levels, each with its own grace period and schedule.
 <br/>
 <br/> 
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/11.jpg" alt=""/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/12.jpg" alt=""/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/13.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/11.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/12.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/13.jpg" alt=""/>
 <br/>
 <br/> 
 Finally, we will set up Help Topics, which are used to categorize tickets. Navigate to **Manage > Help Topics** and create the following: "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset."
 <br/>
 <br/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/14.jpg" alt=""/>
-<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/15.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/14.jpg" alt=""/>
+<img src="https://github.com/aaronsethroberson/post-install-config/blob/main/images/15.jpg" alt=""/>
